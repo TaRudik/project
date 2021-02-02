@@ -1,0 +1,10 @@
+Ivanov 23456.45
+Petrov 12345.34
+Sidorov 32456.56
+Rabotnova 68456.13
+Balamozhnova 97567.09
+Salyakhova 16875.12
+Dubrovin 278956.2
+Potekhin 314342.10
+Gorinova 230574.87
+Kurilovich 45632.98
